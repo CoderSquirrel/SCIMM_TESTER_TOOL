@@ -100,7 +100,7 @@ int main( int argc, char** argv )
 
 
 
-    image = imread("partes.png", CV_LOAD_IMAGE_COLOR);   // Read the file
+    image = imread("partes2.png", CV_LOAD_IMAGE_COLOR);   // Read the file
 
     if(! image.data )                              // Check for invalid input
     {
